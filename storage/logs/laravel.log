@@ -1,0 +1,48 @@
+[2022-04-11 08:20:13] local.ERROR: Cannot declare class CreateMedPolicesTable, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class CreateMedPolicesTable, because the name is already in use at /home/administrator/medical_management_system/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php:31)
+[stacktrace]
+#0 {main}
+"} 
+[2022-04-11 08:22:17] local.ERROR: Cannot declare class CreateMedPolicesTable, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class CreateMedPolicesTable, because the name is already in use at /home/administrator/medical_management_system/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php:31)
+[stacktrace]
+#0 {main}
+"} 
+[2022-04-11 08:24:21] local.ERROR: Cannot declare class CreateMedPolicesTable, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class CreateMedPolicesTable, because the name is already in use at /home/administrator/medical_management_system/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php:31)
+[stacktrace]
+#0 {main}
+"} 
+[2022-04-11 08:25:23] local.ERROR: Cannot declare class CreateCardsTable, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class CreateCardsTable, because the name is already in use at /home/administrator/medical_management_system/database/migrations/2019_08_19_000000_create_failed_jobs_table.php:31)
+[stacktrace]
+#0 {main}
+"} 
+[2022-04-11 08:28:16] local.ERROR: Cannot declare class CreateMedPolicesTable, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class CreateMedPolicesTable, because the name is already in use at /home/administrator/medical_management_system/database/migrations/2022_04_11_082556_create_med_polices.php:31)
+[stacktrace]
+#0 {main}
+"} 
+[2022-04-11 08:31:30] local.ERROR: Cannot declare class CreatePolicesTable, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class CreatePolicesTable, because the name is already in use at /home/administrator/medical_management_system/database/migrations/2022_04_11_082556_create_med_polices.php:31)
+[stacktrace]
+#0 {main}
+"} 
+[2022-04-11 08:41:54] local.ERROR: Cannot declare class CreateMedPolicesTable, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class CreateMedPolicesTable, because the name is already in use at /home/administrator/medical_management_system/database/migrations/2022_04_11_082556_create_med_polices.php:21)
+[stacktrace]
+#0 {main}
+"} 
+[2022-04-11 13:56:48] local.ERROR: Cannot declare class CreateMedPolicesTable, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class CreateMedPolicesTable, because the name is already in use at /home/administrator/medical_management_system/database/migrations/2022_04_11_082556_create_med_polices.php:31)
+[stacktrace]
+#0 {main}
+"} 
+[2022-04-11 14:17:06] local.ERROR: Cannot declare class CreateMedPolicesTable, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class CreateMedPolicesTable, because the name is already in use at /home/administrator/medical_management_system/database/migrations/2022_04_11_082556_create_med_polices.php:31)
+[stacktrace]
+#0 {main}
+"} 
+[2022-04-11 14:17:21] local.ERROR: Cannot declare class CreateMedPolicesTable, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class CreateMedPolicesTable, because the name is already in use at /home/administrator/medical_management_system/database/migrations/2022_04_11_082556_create_med_polices.php:31)
+[stacktrace]
+#0 {main}
+"} 
+[2022-04-11 14:19:53] local.ERROR: Cannot declare class CreateMedPolicesTable, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class CreateMedPolicesTable, because the name is already in use at /home/administrator/medical_management_system/database/migrations/2022_04_11_082556_create_med_polices.php:31)
+[stacktrace]
+#0 {main}
+"} 
+[2022-04-11 14:21:06] local.ERROR: Cannot declare class CreateMedPolicesTable, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class CreateMedPolicesTable, because the name is already in use at /home/administrator/medical_management_system/database/migrations/2022_04_11_082556_create_med_polices.php:31)
+[stacktrace]
+#0 {main}
+"} 
